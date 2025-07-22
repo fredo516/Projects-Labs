@@ -1,3 +1,5 @@
+Completed labs
+
 # 🧪 Linux Server Enumeration & Process Management Lab
 
 ## Overview
@@ -38,5 +40,38 @@ This lab focused on practicing foundational Linux administration and enumeration
 Documented from TryHackMe/Linux Fundamentals & Enumeration lab work
 
 ---
+# 🏢 Active Directory Fundamentals Lab
+
+## Overview
+This lab explored the basic architecture and practical management of Active Directory environments, including organizing users and systems, creating and delegating permissions, and understanding how domains function within business infrastructures.
+
+---
+
+## 🔧 Key Concepts Practiced
+- Understood the function and role of a Domain Controller in centralized Windows administration
+- Explored AD structure including Users, Groups, and Organizational Units (OUs)
+- Practiced creating, deleting, and managing OUs and security groups
+- Assigned and delegated permissions using Active Directory Users and Computers
+- Examined the purpose of different built-in security groups (Domain Users, Domain Admins, etc.)
+
+---
+
+## 📊 Tools Used
+- Active Directory Users and Computers (Windows Server)
+- Domain Services on Windows Server
+- Organizational Unit interface, Group Policy delegation panel
+
+---
+
+## 🔐 Real-World Applications
+- Administering users and permissions in a centralized enterprise environment
+- Recognizing and applying least privilege principles to minimize risk
+- Understanding how attackers abuse AD to gain persistence or escalate privileges
+
+---
+
+## ✅ Completed By:
+**Alfredo San Miguel**  
+Documented from TryHackMe/Windows AD lab work
 
 
