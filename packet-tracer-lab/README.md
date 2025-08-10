@@ -68,3 +68,4 @@ ip dhcp pool LAN2
 
 ****TROUBLESHOOTING NOTES*****
 #Resolved DHCP scope misconfiguration on Router R2 by identifying incorrect excluded address range, updating configuration, and verifying successful lease distribution to all client devices
+
