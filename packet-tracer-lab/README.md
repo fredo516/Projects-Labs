@@ -1,7 +1,7 @@
 ##Packet Tracer Lab — Two-LAN Cisco Routing & DHCP
 
 ## Overview
-A complete two-site Cisco Packet Tracer lab demonstrating subnetting, static routing, DHCP configuration, and end-to-end connectivity.
+A complete two-site Cisco Packet Tracer lab demonstrating subnetting, static routing, Router-on-a-stick VLAN setup, DHCP per VLAN, Successful inter-VLAN routing, and end-to-end connectivity.
 
 ## Topology
 - **Site A:** R1 — S1 — PC1/PC2/PC3 (VLAN 1)
