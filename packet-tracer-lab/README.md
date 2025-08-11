@@ -138,4 +138,4 @@ interface g0/1
 Packet Tracer screenshot of my configured homelab network.  
 File path visible to confirm original work.
 
-<img width="1298" height="663" alt="image" src="https://github.com/user-attachments/assets/d3a1826c-c075-45ad-9117-d4ad9237c617" />
+[<img width="1298" height="663" alt="image" src="https://github.com/user-attachments/assets/d3a1826c-c075-45ad-9117-d4ad9237c617" />](https://github.com/user-attachments/assets/d3a1826c-c075-45ad-9117-d4ad9237c617)
